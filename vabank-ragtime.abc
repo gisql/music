@@ -1,0 +1,12 @@
+X: 1
+T: Vabank
+C: Henryk Kuzniak
+K: F
+Q: 1/4 = 194
+%transpose -4
+| z8 [| "D/F#"z2 [I:repeat 1 3] z2 z2 z2 | "B0"z2 z2 "Ab0"z2 z2 | "Dm"z2 z2 "F0"z2 z2 |
+"Em7"z2 z2 z2 z2 | "Dm"!>!f d2 A -A!>!fdA | "Dm6"!>!f d2 A -A!>!fed | "E7"!>!f e2 "Bm"!>!^G-G4 |
+"E7"z2 !>!^G !>!A !>!B | "A7"!>!f e2 =G -G!>!feG | "Gm6"!>!f d2 A "A"-A!>!fed | "Dm"!>!e d2 !>!a -a4 |
+"Bb0"z2 !>!g2 !>!f2 !>!e2 | "Dm"!>!f d2 A -A!>!fdA | "Gm6"f e2 A -A!>!fed | "E7"!>!f e2 !>!^G-G4 |
+"E"z2 !>!^G2 "Db/F"!>!A2 !>!B2 | "Gm6"!>!f e2 =G "C/Bb"-G!>!feG | "A7"!>!f e2 G "A/C#"-G!>!fe_d | "Dm"!>!=d8 |
+
